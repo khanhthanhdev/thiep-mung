@@ -1,5 +1,5 @@
 const nameGirl = 'Nữ 10A1';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = '#';
 const eventName = 'Chúc Mừng 8/3';
 const titleCard = 'Tặng nửa thế giới';
 const contentCard = 'Chúc các bạn nữ 10A1 ngày 8/3 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với các bạn trong hôm nay và 365 ngày còn lại';
