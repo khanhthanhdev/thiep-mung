@@ -1,7 +1,7 @@
 const nameGirl = 'Thu Hân';
 const giftUrl = 'https://www.facebook.com/profile.php?id=100024458418123';
 const eventName = 'Chúc Mừng 8/3';
-const titleCard = 'Tặng nửa thế giới của tôi';
+const titleCard = 'Tặng nửa thế giới';
 const contentCard = 'Gửi đến cậu những lời chúc tốt đẹp nhất để nói rằng cậu đã làm rực rỡ thế giới xung quanh mình như thế nào. Mong điều đẹp nhất sẽ đến với cậu trong hôm nay và 364 ngày còn lại';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
